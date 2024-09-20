@@ -1,1 +1,3 @@
-function appBar(){}
+function appBar(){
+    return "hello world";
+}
